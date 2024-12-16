@@ -1,7 +1,7 @@
 //
 //  AOC_day15.swift
 //
-//  Created by Виктор Васильев on 12.12.2024.
+//  Created by Виктор Васильев on 15.12.2024.
 //  [Связаться со мной в Telegram](https://t.me/Victor_SMK)
 //  Ссылка на репозиторий: https://github.com/vasilievvictor/AdventOfCode-2024/
 
