@@ -29,5 +29,7 @@ Advent of Code — это ежегодное событие для разраб�
 | 13    | [Day 13: Distress Signal](https://adventofcode.com/2024/day/13)  | [AOC_day13.swift](./AOC_day13.swift) |
 | 14    | [Day 14: Regolith Reservoir](https://adventofcode.com/2024/day/14)  | [AOC_day14.swift](./AOC_day14.swift) |
 | 15    | [Day 15: Beacon Exclusion Zone](https://adventofcode.com/2024/day/15)  | [AOC_day15.swift](./AOC_day15.swift) |
+| 16    | [Day 16: Reindeer Maze](https://adventofcode.com/2024/day/16)  | [AOC_day16.swift](./AOC_day16.swift) |
+| 17    | [Day 17: Chronospatial Computer](https://adventofcode.com/2024/day/17)  | [AOC_day17.swift](./AOC_day17.swift) |
 
 ---
